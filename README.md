@@ -10,4 +10,4 @@ Run this command in the passworks folder:
 After building just run `./passworks`.
 
 ## Contribution
-I am very bad at making secure thing so if you have some improvements consider making a PR.
+I am very bad at making secure things so if you have some improvements please consider making a PR.
